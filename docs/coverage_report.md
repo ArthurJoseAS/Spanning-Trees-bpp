@@ -28,9 +28,9 @@ coverage html
 
 | Métrica                       | Percentual |
 | ----------------------------- | ---------- |
-| Cobertura de Linhas           | ≥ %      |
+| Cobertura de Linhas           | ≥ 80%      |
 | Cobertura de Branches         | ≥ %      |
-| Funções Críticas (`mst_prim`) | ≥ %      |
+| Funções Críticas (`mst_prim`) | ≥ 100%      |
 
 ---
 

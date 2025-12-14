@@ -1,7 +1,7 @@
 import pydot
 import pytest
 
-from src.prim import (
+from prim import (
     fill_nodes_list,
     fill_edge_list,
     generate_graph,
