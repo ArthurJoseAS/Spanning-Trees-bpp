@@ -1,5 +1,7 @@
 import pydot
 import pytest
+import sys
+sys.path.append("../")
 
 from prim import (
     fill_nodes_list,
